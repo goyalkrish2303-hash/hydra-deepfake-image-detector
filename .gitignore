@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.venv*/
+venv/
+quick_data/
+data/
+kaggle.json
+.streamlit/secrets.toml
+*.log
+.DS_Store
+Thumbs.db
